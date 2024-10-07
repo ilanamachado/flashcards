@@ -9,7 +9,7 @@ body{
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: ;
+    background-color: blue;
     height: 20ren;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -33,3 +33,13 @@ footer p{
     font-size: 0.5rem;
     margin-top: 0.5rem;
 }
+.cartao__conteudo h3{
+    background-color: black;
+    text-align: left;
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.6rem;
+    border-radius: 0.6rem;
+    font-size: 1vw;
+}
+ 
